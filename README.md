@@ -24,6 +24,14 @@ Studying Deep Learning & Recommender Systems & Natural Language Processing (NLP)
 * ```2023.10.16``` 2023 DMC 빅데이터 아이디어 오디션: **본선 진출**
 * ```2023.11.10``` 2023 한국경영과학회 추계학술대회 경쟁부문: **장려상**
 
+# Papers
+SCI(E) / SSCI
+* ```2024```: Yang, S., Li, Q., ***Lim, H***., & Kim, J. (2024). An attentive aspect-based recommendation model with deep neural network. IEEE Access [[URL]](https://ieeexplore.ieee.org/abstract/document/10379624)
+
+KCI
+* ```2023```: **임해빈**, 김동엽, & 윤상후. (2023). 토픽 모델링을 이용한 대형산불 진화소요시간에 따른 뉴스 기사 비교분석. 한국데이터정보과학회지, 34(2), 245-254 [[URL]](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11231996)
+
+
 
 
 
