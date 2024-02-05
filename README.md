@@ -15,7 +15,7 @@ Studying Deep Learning & Recommender Systems & Natural Language Processing (NLP)
 
 # Education
 * ```2014.03 ~ 2017.02``` 대륜고등학교
-* ```2018.03 ~ 2023.02``` 대구대학교 통계학과(통계 빅데이터 전공) (학점: 4.23/4.5)
+* ```2018.03 ~ 2023.02``` 대구대학교 통계학과(통계 빅데이터 전공) 이학 학사 졸업(학점: 4.2/4.5)
 * ```2023.03 ~ Present``` 경희대학교 빅데이터응용학과 공학 석사과정
 
 # Career
