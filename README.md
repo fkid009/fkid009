@@ -24,7 +24,7 @@ Studying Deep Learning & Recommender Systems & Natural Language Processing (NLP)
 * ```2023.10.16``` 2023 DMC 빅데이터 아이디어 오디션: **본선 진출**
 * ```2023.11.10``` 2023 한국경영과학회 추계학술대회 경쟁부문: **장려상**
 * ```2024.11.26``` 2024 뉴스빅데이터 해커톤: **본선 진출**
-* ```2025.01.06~present``` AT Kearney Korea RA
+* ```2025.01.06 ~ present``` AT Kearney Korea RA
 
 # Papers
 SCI(E) / SSCI
