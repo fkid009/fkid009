@@ -25,7 +25,7 @@ Studying Deep Learning & Machine Learning & Recommender Systems & Natural Langua
 * ```2023.11.10``` 2023 한국경영과학회 추계학술대회 경쟁부문: **장려상**
 * ```2024.11.26``` 2024 뉴스빅데이터 해커톤: **본선 진출**
 * ```2025.01.06 ~ 2025.04.06``` AT Kearney Korea RA
-
+* ```2025.03.01 ~ present``` News Data Automatic Platform Developer with Press9
 # Papers
 SCI(E) / SSCI
 * ```2025```: ***Lim, H***., Li, Q., Yang, S., & Kim, J. (2025). A BERT‐Based Multi‐Embedding Fusion Method Using Review Text for Recommendation. Expert Systems [[URL]](https://onlinelibrary.wiley.com/doi/full/10.1111/exsy.70041)
