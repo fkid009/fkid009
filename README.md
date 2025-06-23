@@ -28,6 +28,7 @@ Studying Deep Learning & Machine Learning & Recommender Systems & Natural Langua
 * ```2025.03.01 ~ present``` News Data Automatic Platform Developer with Press9
 # Papers
 SCI(E) / SSCI
+* ```2025```: Kim, N., ***Lim, H***., Li, Q., Li, X., Kim, S., & Kim, J. (2025). Enhancing Review-Based Recommendations Through Local and Global Feature Fusion. Electronics [[URL]](https://www.mdpi.com/2079-9292/14/13/2540)
 * ```2025```: ***Lim, H***., Li, Q., Yang, S., & Kim, J. (2025). A BERT‐Based Multi‐Embedding Fusion Method Using Review Text for Recommendation. Expert Systems [[URL]](https://onlinelibrary.wiley.com/doi/full/10.1111/exsy.70041)
 * ```2024```: Yang, S., Li, Q., ***Lim, H***., & Kim, J. (2024). An attentive aspect-based recommendation model with deep neural network. IEEE Access [[URL]](https://ieeexplore.ieee.org/abstract/document/10379624)
 
