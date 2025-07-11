@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Haebin Lim
 
-Studying Deep Learning & Machine Learning & Recommender Systems & Natural Language Processing (NLP)
+Studying Deep Learning & Machine Learning & Recommender Systems & Natural Language Processing (NLP) & MLOps
 
 # Contact
 <div>
