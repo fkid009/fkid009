@@ -25,7 +25,8 @@ Studying Deep Learning & Machine Learning & Recommender Systems & Natural Langua
 * ```2023.11.10``` 2023 한국경영과학회 추계학술대회 경쟁부문: **장려상**
 * ```2024.11.26``` 2024 뉴스빅데이터 해커톤: **본선 진출**
 * ```2025.01.06 ~ 2025.04.06``` AT Kearney Korea RA
-* ```2025.02.01 ~ 2025.06.30``` Press9 Data Platform Engineer 
+* ```2025.02.01 ~ 2025.06.30``` Press9 Data Platform Engineer
+* ```2025.11.10 ~ present``` Watcha Machine Learning Engineer
 # Papers
 SCI(E) / SSCI
 * ```2025```: Kim, N., ***Lim, H***., Li, Q., Li, X., Kim, S., & Kim, J. (2025). Enhancing Review-Based Recommendations Through Local and Global Feature Fusion. Electronics [[URL]](https://www.mdpi.com/2079-9292/14/13/2540)
