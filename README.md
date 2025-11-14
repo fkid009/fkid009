@@ -4,11 +4,11 @@ Studying Deep Learning & Machine Learning & Recommender Systems & Natural Langua
 
 # Contact
 <div>
-  <a href="fkid114@gmail.com">
+  <a href="mailto:fkid114@gmail.com">
     <img alt="Static Badge" src="https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 
-  <a href="https://yourblog.tistory.com" target="_blank">
+  <a href="https://just-data.tistory.com/" target="_blank">
     <img alt="Static Badge" src="https://img.shields.io/badge/Tistory-%23FF9E0F?style=for-the-badge&logo=tistory&logoColor=white">
   </a>
 </div>
