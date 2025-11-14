@@ -11,6 +11,9 @@ Studying Deep Learning & Machine Learning & Recommender Systems & Natural Langua
   <a href="https://just-data.tistory.com/" target="_blank">
     <img alt="Static Badge" src="https://img.shields.io/badge/Tistory-%23FF9E0F?style=for-the-badge&logo=tistory&logoColor=white">
   </a>
+
+  <a href="https://scholar.google.co.kr/citations?user=grSFOc0AAAAJ&hl=ko" target="_blank">
+  <img alt="Google Scholar" src="https://img.shields.io/badge/Google Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white">
 </div>
 
   
