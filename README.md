@@ -34,7 +34,6 @@ Studying Deep Learning & Machine Learning & Recommender Systems & Natural Langua
 
 
 # Careers
-* ```2022.08.30 ~ 2022.11.30``` 대학혁신지원사업(2021년 비교과 과목 현황 분석)
 * ```2025.01.06 ~ 2025.04.06``` Research Assistant (Intern) (AT Kearney Korea)
 * ```2025.02.01 ~ 2025.06.30``` Data Platform Engineer (Press9)
 * ```2025.11.10 ~ present``` Machine Learning Engineer (Watcha)
